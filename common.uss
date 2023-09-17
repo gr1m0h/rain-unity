@@ -1,6 +1,5 @@
-
 :root {
-	--unity-colors-default-text:rgb(248, 248, 242);
+    --unity-colors-default-text:rgb(248, 248, 242);
     --unity-theme-text-color-2: rgb(50 50 75);
     --unity-theme-text-color-2: rgb(248, 248, 242);
     --unity-theme-text-color-3: rgb(248, 248, 242);
@@ -16,7 +15,7 @@
     --unity-theme-text-color-13: rgb(50 50 75);
     --unity-theme-background-color-5: rgb(50 50 75);
 
-    --unity-colors-app_toolbar-background: rgb(143 218 189);
+    --unity-colors-app_toolbar-background: rgb(98 149 129);
 
     --unity-colors-window-background: rgb(50 50 75);
 
@@ -63,152 +62,122 @@
     --unity-colors-highlight-background-inactive: rgb(109, 172, 194);
 }
 
-.ScrollViewAlt
-{
-	background-color: rgba(50, 50, 75, 1);
+.ScrollViewAlt {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.label
-{
-	background-color: rgba(50, 50, 75, 1);
+.label {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.ProjectBrowserTopBarBg
-{
-	background-color: rgba(50, 50, 75, 1);
+.ProjectBrowserTopBarBg {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.ProjectBrowserBottomBarBg
-{
-	background-color: rgba(50, 50, 75, 1);
+.ProjectBrowserBottomBarBg {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.dockHeader
-{
-	background-color: rgba(36, 36, 54, 0.9843137);
+.dockHeader {
+    background-color: rgba(36, 36, 54, 0.9843137);
 }
 
-.TV LineBold
-{
-	background-color: rgba(36, 36, 54, 0.9843137);
+.TV LineBold {
+    background-color: rgba(36, 36, 54, 0.9843137);
 }
 
-.ToolbarDropDownToogleRight
-{
-	background-color: rgba(109, 172, 194, 1);
+.ToolbarDropDownToogleRight {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.ToolbarPopupLeft
-{
-	background-color: rgba(109, 172, 194, 1);
+.ToolbarPopupLeft {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.ToolbarPopup
-{
-	background-color: rgba(109, 172, 194, 1);
+.ToolbarPopup {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.toolbarbutton
-{
-	background-color: rgba(109, 172, 194, 1);
+.toolbarbutton {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.PreToolbar
-{
-	background-color: rgba(109, 172, 194, 1);
+.PreToolbar {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.GameViewBackground
-{
-	background-color: rgba(50, 50, 75, 1);
+.GameViewBackground {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.CN EntryInfoSmall
-{
-	background-color: rgba(50, 50, 75, 1);
+.CN EntryInfoSmall {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.Toolbar
-{
-	background-color: rgba(109, 172, 194, 1);
+.Toolbar {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.toolbarbutton
-{
-	background-color: rgba(109, 172, 194, 1);
+.toolbarbutton {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.toolbarbuttonRight
-{
-	background-color: rgba(109, 172, 194, 1);
+.toolbarbuttonRight {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.ProjectBrowserIconAreaBg
-{
-	background-color: rgba(50, 50, 75, 1);
+.ProjectBrowserIconAreaBg {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.AppCommandLeft
-{
-	background-color: rgba(255, 112, 112, 1);
+.AppCommandLeft {
+    background-color: rgba(255, 112, 112, 1);
 }
 
-.AppCommandMid
-{
-	background-color: rgba(255, 112, 112, 1);
+.AppCommandMid {
+    background-color: rgba(255, 112, 112, 1);
 }
 
-.AppCommand
-{
-	background-color: rgba(255, 112, 112, 1);
+.AppCommand {
+    background-color: rgba(255, 112, 112, 1);
 }
 
-.AppToolbarButtonLeft
-{
-	background-color: rgba(255, 112, 112, 1);
+.AppToolbarButtonLeft {
+    background-color: rgba(255, 112, 112, 1);
 }
 
-.AppToolbarButtonRight
-{
-	background-color: rgba(255, 112, 112, 1);
+.AppToolbarButtonRight {
+    background-color: rgba(255, 112, 112, 1);
 }
 
-.DropDown
-{
-	background-color: rgba(109, 172, 194, 1);
+.DropDown {
+    background-color: rgba(109, 172, 194, 1);
 }
 
-.SceneTopBarBg
-{
-	background-color: rgba(112, 112, 245, 1);
+.SceneTopBarBg {
+    background-color: rgba(112, 112, 245, 1);
 }
 
-.MiniPopup
-{
-	background-color: rgba(40, 40, 60, 1);
+.MiniPopup {
+    background-color: rgba(40, 40, 60, 1);
 }
 
-.TV Selection
-{
-	background-color: rgba(50, 50, 75, 1);
+.TV Selection {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.ExposablePopupMenu
-{
-	background-color: rgba(50, 50, 75, 1);
+.ExposablePopupMenu {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.minibutton
-{
-	background-color: rgba(50, 50, 75, 1);
+.minibutton {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-. ToolbarSearchTextField
-{
-	background-color: rgba(50, 50, 75, 1);
+. ToolbarSearchTextField {
+    background-color: rgba(50, 50, 75, 1);
 }
 
-.ToolbarButton
-{
-	background-color: rgba(50, 50, 75, 1);
+.ToolbarButton {
+    background-color: rgba(50, 50, 75, 1);
 }
