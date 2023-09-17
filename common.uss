@@ -1,0 +1,183 @@
+:root {
+    --unity-colors-default-text:rgb(248, 248, 242);
+    --unity-theme-text-color-2: rgb(50 50 75);
+    --unity-theme-text-color-2: rgb(248, 248, 242);
+    --unity-theme-text-color-3: rgb(248, 248, 242);
+    --unity-theme-text-color-4: rgb(248, 248, 242);
+    --unity-theme-text-color-5: rgb(50 50 75);
+    --unity-theme-text-color-6: rgb(50 50 75);
+    --unity-theme-text-color-7: rgb(50 50 75);
+    --unity-theme-text-color-8: rgb(50 50 75);
+    --unity-theme-text-color-9: rgb(50 50 75);
+    --unity-theme-text-color-10: rgb(50 50 75);
+    --unity-theme-text-color-11: rgb(50 50 75);
+    --unity-theme-text-color-12: rgb(50 50 75);
+    --unity-theme-text-color-13: rgb(50 50 75);
+    --unity-theme-background-color-5: rgb(50 50 75);
+
+    --unity-colors-app_toolbar-background: rgb(98 149 129);
+
+    --unity-colors-window-background: rgb(50 50 75);
+
+    --unity-colors-tab-background: rgb(50 50 75);
+    --unity-colors-tab-background-checked: rgb(112 112 245);
+    --unity-colors-tab-background-hover: rgb(50 50 75);
+
+    --unity-colors-inspector_titlebar-background: rgb(36 36 54);
+    --unity-colors-inspector_titlebar-background-hover:, rgb(50 50 75);
+
+    --unity-colors-toolbar_button-background: rgb(126, 192, 170);
+    --unity-colors-toolbar_button-background-hover: rgb(189, 147, 249);
+    --unity-colors-toolbar_button-background-checked: rgb(255, 112, 112);
+    --unity-colors-toolbar_button-background-focus: rgb(189, 147, 249);
+
+    --unity-colors-dropdown-background: rgb(109, 172, 194);
+    --unity-colors-dropdown-background-hover: rgb(109, 172, 194);
+
+    --unity-colors-slider_groove-background: rgb(139 233 253);
+    --unity-colors-slider_groove-background-disabled: rgb(139 233 253);
+    --unity-colors-slider_thumb-background: rgb(139 233 253);
+    --unity-colors-slider_thumb-background-disabled: rgb(139 233 253);
+    --unity-colors-slider_thumb-background-hover: rgb(139 233 253);
+    --unity-colors-slider_thumb-border: rgb(139 233 253);
+    --unity-colors-slider_thumb-border-disabled: rgb(139 233 253);
+    --unity-colors-slider_thumb_halo-background: rgb(139 233 253);
+
+    --unity-colors-object_field_button-background: rgb(255 112 112);
+    --unity-colors-object_field_button-background-hover: rgb(255 112 112);
+
+    --unity-colors-input_field-background: rgb(59, 59, 101);
+    --unity-colors-input_field-border: rgb(50, 50, 75);
+    --unity-colors-input_field-border-focus: rgb(50, 50, 75);
+    --unity-colors-input_field-border-hover: rgb(50, 50, 75);
+    --unity-colors-input_field-border_accent: rgb(50, 50, 75);
+
+    --unity-colors-button-background: rgb(139 233 253);
+    --unity-colors-button-background-pressed: rgb(189, 147, 249);
+    --unity-colors-button-background-focus: rgb(255, 112, 112);
+    --unity-colors-button-background-hover: rgb(255, 112, 112);
+
+    --unity-colors-highlight-background:rgb(109, 172, 1949);
+    --unity-colors-highlight-background-hover:rgb(109, 172, 194);
+    --unity-colors-highlight-background-inactive: rgb(109, 172, 194);
+}
+
+.ScrollViewAlt {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.label {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.ProjectBrowserTopBarBg {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.ProjectBrowserBottomBarBg {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.dockHeader {
+    background-color: rgba(36, 36, 54, 0.9843137);
+}
+
+.TV LineBold {
+    background-color: rgba(36, 36, 54, 0.9843137);
+}
+
+.ToolbarDropDownToogleRight {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.ToolbarPopupLeft {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.ToolbarPopup {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.toolbarbutton {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.PreToolbar {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.GameViewBackground {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.CN EntryInfoSmall {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.Toolbar {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.toolbarbutton {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.toolbarbuttonRight {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.ProjectBrowserIconAreaBg {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.AppCommandLeft {
+    background-color: rgba(255, 112, 112, 1);
+}
+
+.AppCommandMid {
+    background-color: rgba(255, 112, 112, 1);
+}
+
+.AppCommand {
+    background-color: rgba(255, 112, 112, 1);
+}
+
+.AppToolbarButtonLeft {
+    background-color: rgba(255, 112, 112, 1);
+}
+
+.AppToolbarButtonRight {
+    background-color: rgba(255, 112, 112, 1);
+}
+
+.DropDown {
+    background-color: rgba(109, 172, 194, 1);
+}
+
+.SceneTopBarBg {
+    background-color: rgba(112, 112, 245, 1);
+}
+
+.MiniPopup {
+    background-color: rgba(40, 40, 60, 1);
+}
+
+.TV Selection {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.ExposablePopupMenu {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.minibutton {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+. ToolbarSearchTextField {
+    background-color: rgba(50, 50, 75, 1);
+}
+
+.ToolbarButton {
+    background-color: rgba(50, 50, 75, 1);
+}
